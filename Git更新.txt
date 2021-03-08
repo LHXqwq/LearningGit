@@ -1,0 +1,7 @@
+#(*是更新全部）
+git add *
+
+#提交到缓存区域,写更新说明
+git commit -m "第一次更新"
+
+git push origin master
